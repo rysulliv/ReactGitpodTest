@@ -4,6 +4,7 @@ This is a [Create React App](https://create-react-app.dev/) template configured 
 
 ## Next Steps
 
+Changes here first.
 Click the button below to start a new development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-typescript-react)
